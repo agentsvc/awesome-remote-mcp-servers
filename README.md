@@ -135,6 +135,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [AgentBIT](https://agentbit.app) `https://agentbit.app/mcp`
   [![AgentBIT MCP connector](https://glama.ai/mcp/connectors/app.agentbit/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/app.agentbit/mcp)
   🔓 - One tool that routes any task to the best of 14,000+ x402 tools; pay per call in USDC on Base.
+- [agentsvc.io](https://agentsvc.io) `https://agentsvc.io/mcp`
+  [![agentsvc.io MCP connector](https://glama.ai/mcp/connectors/io.agentsvc/services/badges/score.svg)](https://glama.ai/mcp/connectors/io.agentsvc/services)
+  🔓 - 70 tools: web pages to Markdown, screenshots, PDF, OCR, search, crypto and market data; pay per call in USDC via x402.
 - [Agora](https://openforallofus.com) `https://openforallofus.com/api/mcp`
   [![Agora MCP connector](https://glama.ai/mcp/connectors/com.openforallofus/agora/badges/score.svg)](https://glama.ai/mcp/connectors/com.openforallofus/agora)
   🔓 - Search every server in the official MCP registry, ranked by live handshake checks, tool lists and signed reports.
